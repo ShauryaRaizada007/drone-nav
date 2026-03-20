@@ -1,0 +1,3 @@
+[console_scripts]
+costmap_node = perception_stack.costmap_node:main
+depth_estimator = perception_stack.depth_estimator:main

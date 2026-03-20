@@ -1,1 +1,0 @@
-/home/bottledsmoke/drone_nav_ws/src/perception_stack/setup.py

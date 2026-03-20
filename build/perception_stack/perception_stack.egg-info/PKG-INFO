@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: perception-stack
-Version: 0.0.0
-Summary: Perception stack for drone navigation
-Maintainer: bottledsmoke
-Maintainer-email: bottledsmoke@todo.todo
-License: TODO: License declaration
-Requires-Dist: setuptools

@@ -21,6 +21,8 @@ setup(
         "console_scripts": [
             "depth_estimator = perception_stack.depth_estimator:main",
             "costmap_node = perception_stack.costmap_node:main",
+            "vfh_planner = perception_stack.vfh_planner:main",
+            "test_costmap = perception_stack.test_costmap:main",
         ],
     },
 )
